@@ -1,4 +1,5 @@
 streamlit
 gtts
 pdfplumber
-
+ebooklib
+docx
