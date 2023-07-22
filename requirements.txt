@@ -2,4 +2,4 @@ streamlit
 gtts
 pdfplumber
 ebooklib
-docx
+python-docx
